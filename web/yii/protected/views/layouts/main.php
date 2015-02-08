@@ -9,7 +9,7 @@
 	    <meta name="robots" content="noindex, nofollow">
         <link rel="shortcut icon" href="<?php echo Yii::app()->baseUrl ?>/favicon.ico">
 
-        <title><?php $this->beginWidget('Twigify') ?>{{ pageTitle({delim:' / ', siteTitle:'Herbie Demo Blog', rootTitle: 'Herbie Flat-File CMS & Blog - Demo Website', reverse:false}) }}<?php $this->endWidget() ?></title>
+        <title><?php $this->beginWidget('Twigify') ?>{{ pagetitle({delim:' / ', siteTitle:'Herbie Demo Blog', rootTitle: 'Herbie Flat-File CMS & Blog - Demo Website', reverse:false}) }}<?php $this->endWidget() ?></title>
 
         <!-- Bootstrap core CSS -->
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">
