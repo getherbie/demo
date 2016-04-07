@@ -9,6 +9,6 @@ Herbie ist ein einfaches Flat-File CMS- und Blogsystem, das auf simplen Textdate
 
 Die Demo installierst du am einfachsten via Composer. Führe dazu im Terminal die folgende Anweisung aus:
 
-    $ composer create-project getherbie/demo:dev-master myproject
+    $ composer create-project getherbie/demo myproject
 
 Composer erstellt darauf im Verzeichnis `myproject` eine Demo-Applikation und installiert alle abhängigen Bibliotheken.

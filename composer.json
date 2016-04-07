@@ -8,8 +8,8 @@
     "license":"BSD-3-Clause",
     "require": {
         "php": ">=5.4.0",
-        "getherbie/herbie": "dev-master",
-        "getherbie/composer": "dev-master",
+        "getherbie/herbie": "^1.0.0",
+        "getherbie/composer": "^1.0.0",
         "getherbie/yii-module": "dev-master"
     }
 }
